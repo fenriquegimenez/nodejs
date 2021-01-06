@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "0.1.0",
+  "description": "A project part of the Platzi's NodeJS course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "telegram",
+    "chat"
+  ],
+  "author": "Enrique Gimenez",
+  "license": "MIT"
+}
