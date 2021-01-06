@@ -2,9 +2,9 @@
   "name": "nodejs",
   "version": "0.1.0",
   "description": "A project part of the Platzi's NodeJS course.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "server"
   },
   "keywords": [
     "telegram",
